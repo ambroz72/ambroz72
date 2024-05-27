@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abin Varghese</h1>
 <h3 align="center">"As a Python developer, I am enthusiastic and passionate about creating innovative solutions that push the boundaries of what's possible."</h3>
 
-<img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1yoiMNB_G1OB4NWom6_3_vzrbToA1_98WbTlw5jp8TA&s">
+<img align="right" alt="Coding" width="300" src="https://ih1.redbubble.net/image.334388371.4435/st,small,507x507-pad,600x600,f8f8f8.u1.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambroz72&label=Profile%20views&color=0e75b6&style=flat" alt="ambroz72" /> </p>
 
 - 🌱 I’m currently learning **Data Analytics**
