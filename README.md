@@ -4,7 +4,14 @@
 <h3 align="center">"As a Python developer, I am enthusiastic and passionate about creating innovative solutions that push the boundaries of what's possible."</h3>
 
 <img align="right" alt="Coding" width="300" src="https://ih1.redbubble.net/image.334388371.4435/st,small,507x507-pad,600x600,f8f8f8.u1.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ambroz72&label=Profile%20views&color=0e75b6&style=flat" alt="ambroz72" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambroz72&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="ambroz72" /> </p> -->
+
+[![](https://visitcount.itsvg.in/api?id=ambroz72&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
+
 
 - 🌱 I’m currently learning **Data Analytics**
 
@@ -13,6 +20,7 @@
 - 📫 How to reach me **abnvarghese@gmail.com**
 
 - 📄 Know about my experiences [1Y](1Y)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,7 +59,8 @@
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambroz72&show_icons=true&locale=en&layout=compact" alt="ambroz72" /></p>
 
