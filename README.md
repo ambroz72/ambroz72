@@ -13,9 +13,9 @@
 
 
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Data Analysis with python**
 
-- 💬 Ask me about **Python ,Django**
+- 💬 Ask me about **Python ,Django, HTML, CSS**
 
 - 📫 How to reach me **abnvarghese@gmail.com**
 
