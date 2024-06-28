@@ -58,7 +58,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambroz72&show_icons=true&locale=en&layout=compact" alt="ambroz72" /></p>
-<br>
+<br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ambroz72&show_icons=true&locale=en" alt="ambroz72" /></p>
-<br>
+<br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ambroz72&" alt="ambroz72" /></p>
