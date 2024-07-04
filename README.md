@@ -56,11 +56,11 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
-[![Abin's github stats](https://bad-apple-github-readme.vercel.app/api?username=ambroz72&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=white-green)](#)
+![Abin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambroz72&theme=default)
 
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=ambroz72&layout=compact&count_private=true&theme=white-green&)](#)
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=ambroz72&layout=compact&count_private=true&theme=default)](#)
 
-[![Abin's current streak](https://streak-stats.demolab.com/?user=ambroz72&count_private=true&theme=white-green&title_color=00b3ff)](#)
+[![Abin's current streak](https://streak-stats.demolab.com/?user=ambroz72&count_private=true&theme=meta-light)](#)
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </p>
 
