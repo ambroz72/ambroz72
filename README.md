@@ -6,22 +6,22 @@
 <img align="right" alt="Coding" width="300" src="https://ih1.redbubble.net/image.334388371.4435/st,small,507x507-pad,600x600,f8f8f8.u1.jpg">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambroz72&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="ambroz72" /> </p> -->
 
-[![](https://visitcount.itsvg.in/api?id=ambroz72&icon=0&color=0)](https://visitcount.itsvg.in)
-
 - 🌱 I’m currently learning **Data Analysis with python**
 
-- 💬 Ask me about **Python ,Django, HTML, CSS**
+- 💬 Ask me about **Python ,Django **
 
 - 📫 How to reach me **abnvarghese@gmail.com**
 
 - 📄 Know about my experiences [1Y](1Y)
-  
 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abin-varghese-31971713a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abin-varghese-31971713a/" height="30" width="40" /></a>
 <a href="https://instagram.com/_am__bro_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_am__bro_" height="30" width="40" /></a>
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=ambroz72&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # <h2 align="left">Languages and Tools:</h2>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
