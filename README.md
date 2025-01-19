@@ -54,14 +54,16 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+# My GitHub Stats
 
 ![Abin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambroz72&theme=default)
 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=ambroz72&layout=compact&count_private=true&theme=default)](#)
 
-
-
 [![Abin's current streak](https://streak-stats.demolab.com/?user=ambroz72&count_private=true&theme=meta-light)](#)
+
+
+
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </p>
 
