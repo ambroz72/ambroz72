@@ -1,18 +1,33 @@
-<head><img align="center" alt="Coding" width="1000" height="500" src="https://media.licdn.com/dms/image/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_600_2000/0/1693753179836?e=2147483647&v=beta&t=XR0NwEBapgyMfEor_5WiyLKiyQzwoPKtp6EKkXY_zpQ"> </head>
+<!-- <head><img align="center" alt="Coding" width="1000" height="500" src="https://media.licdn.com/dms/image/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_600_2000/0/1693753179836?e=2147483647&v=beta&t=XR0NwEBapgyMfEor_5WiyLKiyQzwoPKtp6EKkXY_zpQ"> </head> -->
 
+<img align="right" alt="Coding" width="1000" height="450" src="https://api.edoxi.com/assets/studyhub/14-Roadmap_for_Becoming_a_Data_Analyst-_Edoxi_blog_image-735X335-June-14.webp">
 <h1 align="center">Hi 👋, I'm Abin Varghese</h1>
-<h3 align="center">"As a Python developer, I am enthusiastic and passionate about creating innovative solutions that push the boundaries of what's possible."</h3>
+<h3 align="center">🚀 Data Analyst | Former Python Developer 
+
+Professional transitioning from backend Python development to the dynamic world of Data Analytics. I'm now focused on leveraging data to drive business insights and solve real-world problems."</h3>
 
 <img align="right" alt="Coding" width="300" src="https://ih1.redbubble.net/image.334388371.4435/st,small,507x507-pad,600x600,f8f8f8.u1.jpg">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambroz72&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="ambroz72" /> </p> -->
 
-- 🌱 I’m currently learning **Data Analysis with python**
+- 🌱 🔍 What I'm Working On:
 
-- 💬 Ask me about **Python ,Django **
+📊   Data Analysis & Visualization using Python & ML
 
-- 📫 How to reach me **abnvarghese@gmail.com**
+🗃️   SQL | managing relational databases
 
-- 📄 Know about my experiences [1Y](1Y)
+📈   Interactive dashboards with Power BI and Tableau
+
+📉   Advanced data manipulation and reporting in Excel
+
+
+- 🛠️ Tech Stack:
+
+Languages: Python, SQL
+
+Tools: Power BI, Tableau, Excel, Jupyter Notebook
+
+
+- 📫   How to reach me **abnvarghese@gmail.com**
 
   
 <h3 align="left">Connect with me:</h3>
