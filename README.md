@@ -26,9 +26,6 @@ Languages: Python, SQL
 
 Tools: Power BI, Tableau, Excel, Jupyter Notebook
 
-
-- 📫   How to reach me **abnvarghese@gmail.com**
-
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
