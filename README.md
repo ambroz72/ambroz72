@@ -6,7 +6,7 @@
 
 Professional transitioning from backend Python development to the dynamic world of Data Analytics. I'm now focused on leveraging data to drive business insights and solve real-world problems."</h3>
 
-<!-- <img align="right" alt="Coding" width="300" src="https://ih1.redbubble.net/image.334388371.4435/st,small,507x507-pad,600x600,f8f8f8.u1.jpg">
+<img align="right" alt="Coding" width="300" src="https://ih1.redbubble.net/image.334388371.4435/st,small,507x507-pad,600x600,f8f8f8.u1.jpg">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambroz72&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="ambroz72" /> </p> -->
 
 - 🌱 🔍 What I'm Working On:
