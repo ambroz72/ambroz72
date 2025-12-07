@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="1000" height="450" src="https://api.edoxi.com/assets/studyhub/14-Roadmap_for_Becoming_a_Data_Analyst-_Edoxi_blog_image-735X335-June-14.webp">
 <h1 align="center">Hi 👋, I'm Abin Varghese</h1>
-<h3 align="center">🚀 Data Analyst | Former Python Developer 
+<h3 align="center">🚀 Data Analyst | Python Developer 
 
 Professional transitioning from backend Python development to the dynamic world of Data Analytics. I'm now focused on leveraging data to drive business insights and solve real-world problems."</h3>
 
